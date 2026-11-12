@@ -1,0 +1,27 @@
+package com.curated.app.core.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val RoseBg = Color(0xFFEEC1CB)
+val RoseBgEnd = Color(0xFFF4D4DB)
+val RoseAccent = Color(0xFFDB8EA2)
+val RoseAccentDeep = Color(0xFFC8778C)
+val MauveInk = Color(0xFF7A5560)
+val GlassShadow = Color(0x38B06A7C)
+val CreamSurface = Color(0xFFFFF5F7)
+val GlassFill = Color(0x8CFFFFFF)
+val GlassFillStrong = Color(0xB3FFFFFF)
+val MauvePrimary = Color(0xFFB37683)
+val MauvePressed = Color(0xFF9A5F6C)
+val MauveSoft = Color(0xFFC58A94)
+val TextPrimary = Color(0xFF3A2428)
+val TextSecondary = Color(0xFF8A6A70)
+val ChromeMid = Color(0xFF7A7474)
+val Badge = Color(0xFFC58A94)
+val StarGold = Color(0xFFC9A227)
+val BorderLight = Color(0x66FFFFFF)
+val ShadowTint = Color(0x1F3A2428)
+val SatinMid = Color(0xFFE3A8AF)
+val PlumSwatch = Color(0xFF6B3A4A)
+val BlushSwatch = Color(0xFFE8B4BE)
+val TanSwatch = Color(0xFFC4A484)

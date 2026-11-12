@@ -1,0 +1,30 @@
+package com.curated.app.navigation
+
+object Routes {
+    const val Splash = "splash"
+    const val Main = "main/{tab}"
+    const val Look = "look/{outfitId}"
+    const val Pdp = "pdp/{productId}"
+    const val CategoryArg = "category"
+    const val Category = "category/{$CategoryArg}"
+    const val Brands = "brands"
+    const val Brand = "brand/{brandId}"
+    const val Cart = "cart"
+    const val Checkout = "checkout"
+    const val OrderPlaced = "order_placed/{orderId}"
+    const val Looks = "looks"
+    const val Notifications = "notifications"
+    const val EditProfile = "profile/edit"
+    const val Orders = "orders"
+    const val Addresses = "addresses"
+    const val Payments = "payments"
+    const val Help = "help"
+    const val Settings = "settings"
+
+    fun main(tab: String = "home") = "main/$tab"
+    fun look(outfitId: String) = "look/$outfitId"
+    fun pdp(productId: String) = "pdp/$productId"
+    fun category(categoryName: String) = "category/$categoryName"
+    fun brand(brandId: String) = "brand/$brandId"
+    fun orderPlaced(orderId: String) = "order_placed/$orderId"
+}

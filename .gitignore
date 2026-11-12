@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.dex
+bin/
+gen/
+out/
+app/build/
+.kotlin/
+__pycache__/
+
+# Personal voice notes, not part of the project
+/_audio/

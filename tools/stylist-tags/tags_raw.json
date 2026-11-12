@@ -1,0 +1,8243 @@
+{
+ "p_nishat_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon embroidered three piece suit with matching dupatta",
+  "neurons": 8.42
+ },
+ "p_gulahmed_06": {
+  "type": "other",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "tan brown",
+  "desc": "Tan brown rectangular wallet with crocodile embossed texture.",
+  "neurons": 8.17
+ },
+ "p_khaadi_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black velvet two-piece set with white floral embroidery",
+  "neurons": 8.44
+ },
+ "p_beechtree_04": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pink beige",
+  "desc": "Floral printed lightweight scarf in pink and beige tones",
+  "neurons": 8.38
+ },
+ "p_jdot_06": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "purple",
+  "desc": "Purple kurta with embroidered waistcoat and white trousers",
+  "neurons": 8.4
+ },
+ "p_jdot_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "light blue",
+  "desc": "Light blue printed three piece suit with floral patterns",
+  "neurons": 8.35
+ },
+ "p_one_04": {
+  "type": "bag",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Large black faux leather tote bag with slim handles",
+  "neurons": 8.18
+ },
+ "p_hushpuppies_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black leather formal brogue lace-up dress shoes",
+  "neurons": 8.34
+ },
+ "p_ndure_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "leopard print",
+  "desc": "Suede ballet flats with a leopard print pattern",
+  "neurons": 8.3
+ },
+ "p_esfir_04": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "gold and green",
+  "desc": "Gold dangling earrings with red and green gemstones",
+  "neurons": 8.4
+ },
+ "p_bata_01": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "dark brown",
+  "desc": "men's dark brown cross strap slide sandals",
+  "neurons": 8.08
+ },
+ "p_khaadi_03": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black poplin shirt with white line art embroidery",
+  "neurons": 8.51
+ },
+ "p_shirt": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black V-neck shirt with gold ethnic embroidery",
+  "neurons": 8.68
+ },
+ "p_khaadi_04": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "white",
+  "desc": "White band-collar shirt with black floral line art embroidery",
+  "neurons": 8.58
+ },
+ "p_khaadi_07": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "grey",
+  "desc": "Grey silk three-piece suit with silver metallic embellishments",
+  "neurons": 8.78
+ },
+ "p_khaadi_08": {
+  "type": "top",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "beige",
+  "desc": "Beige short sleeve shirt with red and blue embroidery",
+  "neurons": 8.54
+ },
+ "p_khaadi_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dark green",
+  "desc": "Longline green kurta with silver embroidery and matching trousers",
+  "neurons": 8.76
+ },
+ "p_khaadi_05": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "pink",
+  "desc": "Longline pink silk kurta with gold embroidery on neckline and sleeves",
+  "neurons": 8.76
+ },
+ "p_khaadi_12": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "mint green",
+  "desc": "Mint green trousers paired with a floral embroidered kurta",
+  "neurons": 8.68
+ },
+ "p_khaadi_11": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "wedding",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream",
+  "desc": "Cream embroidered trousers with floral patterns and lace edges",
+  "neurons": 8.65
+ },
+ "p_khaadi_09": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Patterned maroon trousers with intricate print details",
+  "neurons": 6.91
+ },
+ "p_khaadi_10": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black velvet co-ord set with intricate floral embroidery",
+  "neurons": 8.75
+ },
+ "p_sana_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "white",
+  "desc": "White embroidered long kurta with matching dupatta",
+  "neurons": 8.55
+ },
+ "p_sana_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "yellow",
+  "desc": "Yellow embroidered kurta with matching trousers and dupatta",
+  "neurons": 8.71
+ },
+ "p_sana_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "maroon",
+  "desc": "Maroon embroidered lawn suit with matching dupatta and trousers",
+  "neurons": 8.78
+ },
+ "p_dupatta": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "white and blue",
+  "desc": "White dupatta with blue floral embroidery and scalloped edges",
+  "neurons": 8.82
+ },
+ "p_sana_06": {
+  "type": "scarf",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black and white",
+  "desc": "Black embroidered dupatta with intricate white floral patterns",
+  "neurons": 8.75
+ },
+ "p_sana_05": {
+  "type": "scarf",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "blue and cream",
+  "desc": "printed monark dupatta with intricate floral patterns",
+  "neurons": 8.62
+ },
+ "p_sana_07": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "Printed linen co-ord set with floral and landscape motifs",
+  "neurons": 8.64
+ },
+ "p_sana_10": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mustard orange",
+  "desc": "Embellished mustard long kameez with matching dupatta",
+  "neurons": 8.79
+ },
+ "p_sana_09": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "yellow",
+  "desc": "Yellow embroidered lawn suit with matching trousers and dupatta",
+  "neurons": 8.58
+ },
+ "p_sana_08": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dark grey",
+  "desc": "Dark grey linen dupatta with red and white paisley prints",
+  "neurons": 8.64
+ },
+ "p_sana_11": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "Embroidered cotton khaddar shirt with wide leg shalwar",
+  "neurons": 8.72
+ },
+ "p_sana_15": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "turquoise blue",
+  "desc": "Embroidered jacquard shirt with matching shalwar in turquoise blue",
+  "neurons": 8.75
+ },
+ "p_sana_13": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "casual"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "orange",
+  "desc": "Orange printed raw silk kaftan with floral motifs",
+  "neurons": 8.73
+ },
+ "p_sana_14": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "beige and black",
+  "desc": "Embroidered patterned kurta with matching trousers and heavy shawl",
+  "neurons": 8.82
+ },
+ "p_sana_12": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "gold",
+  "desc": "Embellished sleeveless waistcoat with a voluminous pleated gold skirt",
+  "neurons": 8.76
+ },
+ "p_mariab_02": {
+  "type": "bag",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "gold",
+  "desc": "Gold woven textured clutch bag",
+  "neurons": 8.63
+ },
+ "p_mariab_04": {
+  "type": "bag",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "gold",
+  "desc": "gold metallic clutch with textured perforated pattern",
+  "neurons": 8.68
+ },
+ "p_mariab_01": {
+  "type": "bag",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black ruched clutch with pearl embellishments",
+  "neurons": 8.48
+ },
+ "p_sana_16": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream and purple",
+  "desc": "Embroidered cream tunic with purple wide-leg trousers and dupatta",
+  "neurons": 8.87
+ },
+ "p_mariab_05": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "champagne gold",
+  "desc": "shimmering rhinestone embellished pouch bag with a thin strap",
+  "neurons": 8.79
+ },
+ "p_bag": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "gold",
+  "desc": "shimmery boxy clutch with a gold chain strap",
+  "neurons": 8.75
+ },
+ "p_mariab_08": {
+  "type": "bag",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "pink",
+  "desc": "pink clutch embellished with silver studs and beads",
+  "neurons": 8.71
+ },
+ "p_mariab_06": {
+  "type": "bag",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "green",
+  "desc": "textured green clutch bag with gold lettering",
+  "neurons": 8.68
+ },
+ "p_mariab_07": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "gold",
+  "desc": "Beaded oval clutch with a gold metallic clasp",
+  "neurons": 8.66
+ },
+ "p_mariab_09": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "gold and pink",
+  "desc": "ornate gold chandelier earrings with pink stone droplets",
+  "neurons": 8.75
+ },
+ "p_mariab_10": {
+  "type": "outfit",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "navy blue",
+  "desc": "Navy blue velvet suit with heavy gold embroidery",
+  "neurons": 8.72
+ },
+ "p_mariab_12": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "teal blue",
+  "desc": "Embroidered teal velvet 3 piece suit with red dupatta",
+  "neurons": 8.85
+ },
+ "p_mariab_13": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty rose",
+  "desc": "Embroidered net three piece suit with bell sleeves",
+  "neurons": 8.83
+ },
+ "p_mariab_14": {
+  "type": "outfit",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue embroidered chiffon three piece formal suit",
+  "neurons": 8.76
+ },
+ "p_mariab_11": {
+  "type": "outfit",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Maroon printed raw silk suit with intricate paisley patterns",
+  "neurons": 8.77
+ },
+ "p_mariab_15": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red",
+  "desc": "Embellished red saree with intricate embroidery and long sleeves",
+  "neurons": 8.81
+ },
+ "p_mariab_16": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mauve",
+  "desc": "Embroidered two piece blended shalwar kameez suit",
+  "neurons": 8.83
+ },
+ "p_elan_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Embroidered beige co-ord set with matching dupatta",
+  "neurons": 8.76
+ },
+ "p_elan_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "teal blue",
+  "desc": "Embellished teal co-ord set with long sleeves and wide trousers",
+  "neurons": 8.87
+ },
+ "p_elan_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "chartreuse gold",
+  "desc": "Embellished three-piece co-ord set with long jacket and wide trousers",
+  "neurons": 8.95
+ },
+ "p_elan_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "light blue",
+  "desc": "Embroidered long jacket over a white and blue saree",
+  "neurons": 8.77
+ },
+ "p_elan_07": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "white blue",
+  "desc": "White long tunic with blue geometric patterns and flared sleeves",
+  "neurons": 8.61
+ },
+ "p_elan_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "olive green",
+  "desc": "Embroidered olive green tunic with matching trousers and dupatta",
+  "neurons": 8.79
+ },
+ "p_elan_08": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "peach pink",
+  "desc": "Embellished long peach tunic with matching trousers and dupatta",
+  "neurons": 8.79
+ },
+ "p_elan_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black and white",
+  "desc": "Black patterned long kurta with matching trousers and dupatta",
+  "neurons": 8.74
+ },
+ "p_elan_09": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "dusty blue",
+  "desc": "Blue printed long kurta with matching trousers and dupatta",
+  "neurons": 8.76
+ },
+ "p_elan_10": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mustard yellow",
+  "desc": "Embellished long mustard kurta with matching dupatta and trousers",
+  "neurons": 8.81
+ },
+ "p_charcoal_03": {
+  "type": "bottom",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "navy blue",
+  "desc": "Relaxed fit navy blue corduroy cargo trousers",
+  "neurons": 8.57
+ },
+ "p_charcoal_02": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black short sleeve henley shirt with striped collar",
+  "neurons": 8.51
+ },
+ "p_charcoal_04": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "sage green",
+  "desc": "long sleeve polo shirt with a zipper collar",
+  "neurons": 8.55
+ },
+ "p_charcoal_05": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "reversible full sleeve jacket in light beige color",
+  "neurons": 8.54
+ },
+ "p_charcoal_01": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "olive green",
+  "desc": "Smart fit olive green corduroy button down shirt",
+  "neurons": 8.57
+ },
+ "p_charcoal_08": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "work",
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Two-piece notch lapel suit with matching trousers",
+  "neurons": 8.76
+ },
+ "p_charcoal_07": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "white",
+  "desc": "Plain white long kameez with matching shalwar",
+  "neurons": 8.61
+ },
+ "p_charcoal_06": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "Long sleeve beige polo shirt with vertical stripes",
+  "neurons": 8.51
+ },
+ "p_charcoal_09": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "blue grey",
+  "desc": "Long sleeve self textured striped shirt",
+  "neurons": 8.48
+ },
+ "p_charcoal_10": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black and silver",
+  "desc": "Square black stone cufflinks with silver patterned borders",
+  "neurons": 8.66
+ },
+ "p_gulahmed_01": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "magenta",
+  "desc": "Magenta embroidered waistcoat with bell sleeves and floral motifs",
+  "neurons": 8.61
+ },
+ "p_gulahmed_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "maroon",
+  "desc": "Relaxed fit short sleeve shirt and wide leg trousers",
+  "neurons": 8.62
+ },
+ "p_gulahmed_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dark green",
+  "desc": "Embroidered crinkle georgette abaya with dyed trousers",
+  "neurons": 8.78
+ },
+ "p_gulahmed_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "wedding",
+   "party"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "magenta",
+  "desc": "Embroidered magenta pashmina three piece suit with shawl",
+  "neurons": 8.81
+ },
+ "p_gulahmed_05": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black button-down sleeveless v-neck sweater vest",
+  "neurons": 8.53
+ },
+ "p_alkaram_03": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "beige",
+  "desc": "Plain beige straight cut cambric trousers",
+  "neurons": 8.62
+ },
+ "p_alkaram_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty rose",
+  "desc": "Pink cotton silk three piece suit with gold embroidery",
+  "neurons": 8.8
+ },
+ "p_alkaram_04": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Plain black loose fit shalwar pants",
+  "neurons": 8.45
+ },
+ "p_alkaram_02": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light lilac",
+  "desc": "Long lilac kurti with long sleeves and side slits",
+  "neurons": 8.56
+ },
+ "p_alkaram_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "beige and blue",
+  "desc": "Beige floral printed lawn shirt with matching printed trousers",
+  "neurons": 8.64
+ },
+ "p_nishat_02": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Long black coat with front pockets and lapels",
+  "neurons": 8.53
+ },
+ "p_nishat_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "blue",
+  "desc": "Blue printed embroidered three piece suit with dupatta",
+  "neurons": 8.7
+ },
+ "p_alkaram_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "textured navy blue blended fabric for kameez and shalwar",
+  "neurons": 8.65
+ },
+ "p_nishat_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon embroidered kurta with matching shalwar",
+  "neurons": 8.58
+ },
+ "p_limelight_01": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light mauve",
+  "desc": "Floral print long shirt with long sleeves",
+  "neurons": 8.5
+ },
+ "p_nishat_06": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon waistcoat with intricate gold floral embroidery",
+  "neurons": 8.71
+ },
+ "p_limelight_02": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "maroon pink",
+  "desc": "Satin scarf with abstract maroon and pink wavy patterns",
+  "neurons": 8.62
+ },
+ "p_limelight_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "emerald green",
+  "desc": "Embroidered green slub khaddar co-ord set",
+  "neurons": 8.75
+ },
+ "p_nishat_05": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "Long beige coat with a draped open front",
+  "neurons": 8.51
+ },
+ "p_limelight_04": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "blue white",
+  "desc": "White viscose scarf with blue floral print and tassels",
+  "neurons": 8.56
+ },
+ "p_limelight_06": {
+  "type": "bottom",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "white",
+  "desc": "White dyed cotton shalwar paired with brown loafers",
+  "neurons": 8.52
+ },
+ "p_limelight_05": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black embroidered kurti with colorful neckline and sleeve details",
+  "neurons": 8.62
+ },
+ "p_bonanza_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "green",
+  "desc": "Green patterned khaddar kurta with matching trousers and dupatta",
+  "neurons": 8.62
+ },
+ "p_bonanza_02": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "Oversized light blue short sleeve t-shirt",
+  "neurons": 8.45
+ },
+ "p_bonanza_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black printed three piece suit with floral patterns and dupatta",
+  "neurons": 8.6
+ },
+ "p_bonanza_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black and green",
+  "desc": "Black embroidered kurta with green patterned shalwar and dupatta",
+  "neurons": 8.8
+ },
+ "p_bonanza_05": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "brick pink",
+  "desc": "Brick pink wing collar cardigan with long sleeves and pockets",
+  "neurons": 8.61
+ },
+ "p_generation_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pale yellow",
+  "desc": "Pale yellow saree with orange floral jacquard borders",
+  "neurons": 8.74
+ },
+ "p_bonanza_06": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "brown",
+  "desc": "Brown turtle neck sweater with a front zipper",
+  "neurons": 8.53
+ },
+ "p_generation_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black and pink",
+  "desc": "Black floral print two piece kurta and trouser set",
+  "neurons": 8.64
+ },
+ "p_generation_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "pink",
+  "desc": "Pink embroidered tunic with matching wide leg trousers",
+  "neurons": 8.56
+ },
+ "p_generation_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon floral print kurta with matching loose trousers",
+  "neurons": 8.58
+ },
+ "p_generation_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black floral printed co-ord set with red rose motifs",
+  "neurons": 8.62
+ },
+ "p_generation_06": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red",
+  "desc": "Red embroidered khussa with gold detailing and teal lining",
+  "neurons": 8.72
+ },
+ "p_beechtree_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "indigo glaze",
+  "desc": "Light blue floral printed lawn suit with dupatta",
+  "neurons": 8.62
+ },
+ "p_beechtree_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pink and green",
+  "desc": "Printed lawn tunic with geometric floral patterns",
+  "neurons": 8.57
+ },
+ "p_beechtree_03": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty blue",
+  "desc": "Embroidered raw silk shirt with floral patterns and dark borders",
+  "neurons": 8.85
+ },
+ "p_beechtree_05": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "rust red",
+  "desc": "Long sleeve crew neck sweater in rust red",
+  "neurons": 8.5
+ },
+ "p_beechtree_06": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pink",
+  "desc": "Pink printed two piece set with long sleeves",
+  "neurons": 8.54
+ },
+ "p_zellbury_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "Light blue embroidered shirt with matching trousers and dupatta",
+  "neurons": 8.76
+ },
+ "p_zellbury_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black embroidered shirt with shalwar and matching shawl",
+  "neurons": 8.74
+ },
+ "p_zellbury_03": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black mock neck waffle knit zipper sweater",
+  "neurons": 8.46
+ },
+ "p_zellbury_04": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black tote bag with tan side panels and red trim",
+  "neurons": 8.55
+ },
+ "p_zellbury_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "purple",
+  "desc": "Purple embroidered shirt with matching shalwar and printed dupatta",
+  "neurons": 8.68
+ },
+ "p_jdot_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal",
+  "desc": "Teal embroidered chiffon three piece unstitched suit",
+  "neurons": 8.81
+ },
+ "p_zellbury_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty pink",
+  "desc": "Embroidered pink shirt with matching shalwar and shawl",
+  "neurons": 8.9
+ },
+ "p_jdot_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "green",
+  "desc": "Green jacquard three piece suit with gold embroidery and dupatta",
+  "neurons": 8.82
+ },
+ "p_jdot_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "beige",
+  "desc": "Beige embroidered lawn suit with pink floral patterns",
+  "neurons": 8.62
+ },
+ "p_crossstitch_01": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "ivory maroon",
+  "desc": "Ivory scarf with maroon floral print and border",
+  "neurons": 8.64
+ },
+ "p_jdot_05": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "matt black",
+  "desc": "plain matte black leather Peshawari sandals with buckle strap",
+  "neurons": 8.65
+ },
+ "p_crossstitch_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "espresso brown",
+  "desc": "Embroidered chiffon three piece suit in deep espresso brown",
+  "neurons": 8.86
+ },
+ "p_crossstitch_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty pink",
+  "desc": "Embroidered pink shirt with matching trousers and sheer dupatta",
+  "neurons": 8.86
+ },
+ "p_crossstitch_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pale pink",
+  "desc": "Floral printed long shirt with lace borders and wide trousers",
+  "neurons": 8.85
+ },
+ "p_crossstitch_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black long sleeve tunic with wide leg trousers",
+  "neurons": 8.56
+ },
+ "p_crossstitch_06": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "cream",
+  "desc": "cream flat sandals with thin embellished straps",
+  "neurons": 8.45
+ },
+ "p_chinyere_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "brown",
+  "desc": "Brown embroidered lawn karandi three piece suit with dupatta",
+  "neurons": 8.63
+ },
+ "p_chinyere_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "peach",
+  "desc": "Peach chiffon printed three piece suit with floral embroidery",
+  "neurons": 8.73
+ },
+ "p_chinyere_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon cotton silk embroidered three piece suit with dupatta",
+  "neurons": 8.78
+ },
+ "p_chinyere_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Embroidered velvet three piece suit in deep maroon",
+  "neurons": 8.77
+ },
+ "p_chinyere_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dark green",
+  "desc": "Embroidered dark green cotton karandi two piece suit",
+  "neurons": 8.82
+ },
+ "p_chinyere_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "mint green",
+  "desc": "Embroidered mint green organza two piece suit with dupatta",
+  "neurons": 8.85
+ },
+ "p_sokamal_02": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "midnight sapphire",
+  "desc": "dark blue velvet pants with intricate light blue embroidery",
+  "neurons": 8.73
+ },
+ "p_sokamal_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Maroon embroidered linen three piece suit with dupatta",
+  "neurons": 8.64
+ },
+ "p_sokamal_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Embroidered maroon karandi suit with floral printed trousers and dupatta",
+  "neurons": 8.91
+ },
+ "p_sokamal_05": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black linen trousers with lavender embroidered borders",
+  "neurons": 8.5
+ },
+ "p_sokamal_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light pink",
+  "desc": "Embroidered three piece lawn suit with dupatta and wide trousers",
+  "neurons": 8.82
+ },
+ "p_sokamal_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "beige and black",
+  "desc": "Printed karandi suit with patterned shirt, trousers, and dupatta",
+  "neurons": 8.74
+ },
+ "p_almirah_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "plum pink",
+  "desc": "Plum pink printed three piece suit with embroidered neckline",
+  "neurons": 8.66
+ },
+ "p_almirah_01": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black and white",
+  "desc": "Wide leg black trousers with white ethnic patterns",
+  "neurons": 8.57
+ },
+ "p_almirah_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue three piece suit with gold zari embroidery",
+  "neurons": 8.8
+ },
+ "p_almirah_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black dobby print 3pc suit with blue embroidery",
+  "neurons": 8.66
+ },
+ "p_almirah_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "fusion",
+  "season": "summer",
+  "colour": "peach",
+  "desc": "Peach two piece set with loose top and tulip pants",
+  "neurons": 8.61
+ },
+ "p_lulusar_02": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "green",
+  "desc": "Green wide leg pants with pink floral print",
+  "neurons": 8.48
+ },
+ "p_lulusar_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "dusty rose",
+  "desc": "Embellished crop top with long sheer cape and flowing skirt",
+  "neurons": 8.84
+ },
+ "p_lulusar_01": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "lime green",
+  "desc": "lime green floral print tunic with matching dupatta",
+  "neurons": 8.53
+ },
+ "p_almirah_06": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black patterned prince coat with intricate gold embroidery",
+  "neurons": 8.66
+ },
+ "p_lulusar_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Sleeveless black jumpsuit with a v-neck and wide legs",
+  "neurons": 8.7
+ },
+ "p_saya_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "cream green",
+  "desc": "Cream printed floral shirt with matching wide leg trousers",
+  "neurons": 8.64
+ },
+ "p_lulusar_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Long sleeve maroon midi dress with a round neckline",
+  "neurons": 8.56
+ },
+ "p_lulusar_05": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red and purple",
+  "desc": "Red dupatta with purple floral print and gold border",
+  "neurons": 8.75
+ },
+ "p_saya_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black and white",
+  "desc": "Black embroidered long shirt with white trousers",
+  "neurons": 8.65
+ },
+ "p_saya_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "purple",
+  "desc": "Purple jacquard cotton stitched shirt and matching trousers",
+  "neurons": 8.58
+ },
+ "p_saya_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "gold",
+  "desc": "Embroidered cotton jacquard shirt with wide leg trousers and dupatta",
+  "neurons": 8.85
+ },
+ "p_saya_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "royal blue",
+  "desc": "Solid blue two piece set with long sleeves and trousers",
+  "neurons": 8.67
+ },
+ "p_saya_06": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "blue white",
+  "desc": "Floral printed lawn shirt and trousers co-ord set",
+  "neurons": 8.65
+ },
+ "p_edenrobe_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "lilac pink",
+  "desc": "Floral printed khaddar suit with matching trousers and dupatta",
+  "neurons": 8.65
+ },
+ "p_edenrobe_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "purple",
+  "desc": "Purple viscose suit with intricate white floral embroidery",
+  "neurons": 8.69
+ },
+ "p_edenrobe_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "rust orange",
+  "desc": "Embroidered long tunic with matching wide leg trousers",
+  "neurons": 8.67
+ },
+ "p_edenrobe_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "navy blue",
+  "desc": "Solid navy blue viscose co-ord set with wide leg pants",
+  "neurons": 8.67
+ },
+ "p_edenrobe_06": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "brown",
+  "desc": "Long sleeve brown henley t-shirt with buttoned neckline",
+  "neurons": 8.6
+ },
+ "p_edenrobe_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "sage green",
+  "desc": "Green printed lawn co-ord set with white floral patterns",
+  "neurons": 8.64
+ },
+ "p_zeen_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue embroidered kurta with matching wide-leg trousers",
+  "neurons": 8.64
+ },
+ "p_zeen_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "Light blue co-ord set with floral embroidery and wide sleeves",
+  "neurons": 8.65
+ },
+ "p_zeen_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "blue",
+  "desc": "Blue printed long shirt with wide leg trousers and dupatta",
+  "neurons": 8.62
+ },
+ "p_zeen_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "sage green",
+  "desc": "Embroidered organza suit with a printed floral dupatta",
+  "neurons": 8.81
+ },
+ "p_zeen_05": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon chikankari embroidered shirt and matching trousers set",
+  "neurons": 8.78
+ },
+ "p_zeen_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "orange red",
+  "desc": "Embroidered raw silk tunic with matching straight trousers",
+  "neurons": 8.81
+ },
+ "p_shaposh_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "cream black",
+  "desc": "Cream patterned kurta with black printed dupatta",
+  "neurons": 8.55
+ },
+ "p_shaposh_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "grey",
+  "desc": "Plain grey three piece suit with embroidered neckline and dupatta",
+  "neurons": 8.77
+ },
+ "p_shaposh_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "navy and beige",
+  "desc": "Navy and beige kurta with red geometric print and trousers",
+  "neurons": 8.65
+ },
+ "p_shaposh_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dark pink",
+  "desc": "Velvet three piece suit with gold embroidered borders",
+  "neurons": 8.77
+ },
+ "p_shaposh_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "black and white",
+  "desc": "Black and white printed long shirt with black trousers",
+  "neurons": 8.64
+ },
+ "p_gulaal_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream gold",
+  "desc": "Embellished long cream dress with matching dupatta",
+  "neurons": 8.71
+ },
+ "p_gulaal_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon embroidered three piece suit with dupatta",
+  "neurons": 8.68
+ },
+ "p_gulaal_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "purple",
+  "desc": "Embroidered purple three piece suit with matching dupatta",
+  "neurons": 8.72
+ },
+ "p_shaposh_06": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue raw silk 3 piece suit with gold embroidery",
+  "neurons": 8.81
+ },
+ "p_gulaal_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "maroon printed long kurta with matching straight trousers",
+  "neurons": 8.57
+ },
+ "p_gulaal_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black and grey",
+  "desc": "Black patterned long kurta with matching trousers and lace details",
+  "neurons": 8.61
+ },
+ "p_gulaal_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "navy blue embroidered three piece suit with dupatta",
+  "neurons": 8.68
+ },
+ "p_batik_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Embroidered velvet three piece suit with wide leg trousers",
+  "neurons": 8.83
+ },
+ "p_batik_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "forest green",
+  "desc": "Dark green three piece suit with gold embroidery",
+  "neurons": 8.75
+ },
+ "p_batik_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue three piece suit with intricate silver embroidery",
+  "neurons": 8.76
+ },
+ "p_batik_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon three piece suit with delicate gold floral embroidery",
+  "neurons": 8.8
+ },
+ "p_batik_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "mint green",
+  "desc": "Mint green embroidered long shirt with wide leg trousers",
+  "neurons": 8.77
+ },
+ "p_batik_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dusty pink",
+  "desc": "Embroidered pink khaddar three piece suit with dupatta",
+  "neurons": 8.77
+ },
+ "p_mausummery_02": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "off white",
+  "desc": "Cream tulip shalwar with delicate gold bead embellishments",
+  "neurons": 8.59
+ },
+ "p_mausummery_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "yellow",
+  "desc": "Embroidered yellow co-ord set with long tunic and trousers",
+  "neurons": 8.71
+ },
+ "p_mausummery_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "taupe brown",
+  "desc": "Long sleeve tunic with button details and wide leg trousers",
+  "neurons": 8.62
+ },
+ "p_mausummery_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black two piece suit with gold embroidery on sleeves",
+  "neurons": 8.58
+ },
+ "p_mausummery_06": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "summer",
+  "colour": "white",
+  "desc": "Flowy white harem pants with gathered ankle cuffs",
+  "neurons": 8.53
+ },
+ "p_ego_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "mint green",
+  "desc": "Mint green two piece with floral lace detailing",
+  "neurons": 8.57
+ },
+ "p_ego_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pink",
+  "desc": "Pink three piece suit with floral embroidery on sleeves",
+  "neurons": 8.56
+ },
+ "p_mausummery_04": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "party",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "white",
+  "desc": "White harem pants with pearl button details at the hem",
+  "neurons": 8.72
+ },
+ "p_ego_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "mustard orange",
+  "desc": "printed mustard kurta and matching trousers set",
+  "neurons": 8.57
+ },
+ "p_ego_04": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Lightweight beige flowing chiffon wrap scarf",
+  "neurons": 8.47
+ },
+ "p_ego_05": {
+  "type": "bottom",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "summer",
+  "colour": "white",
+  "desc": "White culottes with delicate floral embroidery at the hem",
+  "neurons": 8.55
+ },
+ "p_krosskulture_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "long light blue maxi dress with bell sleeves and embroidery",
+  "neurons": 8.6
+ },
+ "p_ego_06": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "seated",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "mint green",
+  "desc": "Mint green two piece set with white floral patterns",
+  "neurons": 8.59
+ },
+ "p_krosskulture_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "olive green",
+  "desc": "Long olive tunic with intricate gold embroidery on front",
+  "neurons": 8.71
+ },
+ "p_krosskulture_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dark purple",
+  "desc": "Long velvet abaya with intricate gold embroidery",
+  "neurons": 8.68
+ },
+ "p_krosskulture_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "olive green",
+  "desc": "long velvet maxi dress with silver embroidery",
+  "neurons": 8.65
+ },
+ "p_krosskulture_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "brown",
+  "desc": "Long brown velvet tunic with gold embroidery on sleeves and neckline",
+  "neurons": 8.74
+ },
+ "p_krosskulture_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "navy blue",
+  "desc": "Navy blue velvet long dress with gold embroidery",
+  "neurons": 8.68
+ },
+ "p_outfitters_01": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "tan brown",
+  "desc": "Wide leg trousers in brushed fabric with drawstring waist",
+  "neurons": 8.57
+ },
+ "p_outfitters_02": {
+  "type": "bottom",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "Light blue wide leg jeans with white floral print",
+  "neurons": 8.39
+ },
+ "p_outfitters_04": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "blue white",
+  "desc": "Blue and white vertical striped long sleeve button down shirt",
+  "neurons": 8.55
+ },
+ "p_outfitters_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Beige suede slip-on clogs with a black sole",
+  "neurons": 8.46
+ },
+ "p_outfitters_05": {
+  "type": "other",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Square shaped sunglasses with dark tinted lenses and black frames",
+  "neurons": 8.54
+ },
+ "p_outfitters_06": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "silver and gold",
+  "desc": "Silver flower stud earrings with gold center details",
+  "neurons": 8.72
+ },
+ "p_breakout_01": {
+  "type": "outerwear",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "lavender purple",
+  "desc": "Soft lavender purple fuzzy faux fur hooded jacket",
+  "neurons": 8.42
+ },
+ "p_breakout_03": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "taupe brown",
+  "desc": "Brown graphic hoodie with white New York City text",
+  "neurons": 8.43
+ },
+ "p_breakout_02": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Long sleeve black button down knit cardigan",
+  "neurons": 8.46
+ },
+ "p_breakout_04": {
+  "type": "other",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "light blue",
+  "desc": "Soft light blue fuzzy gloves with grey touch tips",
+  "neurons": 8.38
+ },
+ "p_breakout_05": {
+  "type": "top",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "sage green",
+  "desc": "Sage green V-neck layered sweatshirt with rose embroidery",
+  "neurons": 8.48
+ },
+ "p_breakout_06": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Embroidered zip-up jacket in a deep maroon shade",
+  "neurons": 8.67
+ },
+ "p_diners_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal blue",
+  "desc": "Teal embroidered three piece suit with matching dupatta and trousers",
+  "neurons": 8.81
+ },
+ "p_diners_02": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "navy blue",
+  "desc": "Navy blue zip-up bomber jacket and matching trousers set",
+  "neurons": 8.66
+ },
+ "p_diners_03": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dark grey",
+  "desc": "Dark grey long sleeve kameez with buttoned placket",
+  "neurons": 8.67
+ },
+ "p_diners_04": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue leather Peshawari sandals with pointed toes.",
+  "neurons": 8.61
+ },
+ "p_diners_05": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black brown",
+  "desc": "textured black and brown belt with silver buckle",
+  "neurons": 8.53
+ },
+ "p_diners_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black embroidered two piece set with floral patterns",
+  "neurons": 8.7
+ },
+ "p_engine_01": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black high waisted flared trousers with drawstring waist",
+  "neurons": 8.49
+ },
+ "p_engine_02": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "dark green",
+  "desc": "Long sleeve dark green dress with pleated bodice",
+  "neurons": 8.38
+ },
+ "p_engine_03": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "light grey",
+  "desc": "Light grey long sleeve crewneck sweatshirt",
+  "neurons": 8.34
+ },
+ "p_engine_04": {
+  "type": "other",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "blue and white",
+  "desc": "Set of three patterned and plain ankle socks",
+  "neurons": 8.38
+ },
+ "p_engine_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "sage green",
+  "desc": "Sage green button-down shirt and wide-leg trousers co-ord set",
+  "neurons": 8.71
+ },
+ "p_engine_06": {
+  "type": "outerwear",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "light blue",
+  "desc": "Light blue textured zip-up bomber jacket",
+  "neurons": 8.38
+ },
+ "p_furor_01": {
+  "type": "bottom",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Classic straight leg black elasticated trousers",
+  "neurons": 8.45
+ },
+ "p_furor_03": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Minimalist black crossbody bag with a slim shoulder strap.",
+  "neurons": 8.55
+ },
+ "p_furor_04": {
+  "type": "bottom",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "blue",
+  "desc": "Relaxed fit blue denim jeans",
+  "neurons": 8.29
+ },
+ "p_furor_05": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black white",
+  "desc": "Black moc-toe sneakers with a thick white sole",
+  "neurons": 8.6
+ },
+ "p_one_01": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "deep purple",
+  "desc": "Oversized dark purple faux leather jacket with collar",
+  "neurons": 8.62
+ },
+ "p_furor_06": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "grey",
+  "desc": "Grey suede baseball cap with a small logo",
+  "neurons": 8.35
+ },
+ "p_one_05": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "olive brown",
+  "desc": "Cropped double-breasted jacket with wide sleeves and lapels",
+  "neurons": 8.69
+ },
+ "p_one_03": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "cream",
+  "desc": "Short sleeve textured relax fit shirt with subtle pattern",
+  "neurons": 8.52
+ },
+ "p_one_06": {
+  "type": "bottom",
+  "for": "kids",
+  "view": "standing",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black straight dungarees worn with a white t-shirt",
+  "neurons": 8.45
+ },
+ "p_one_02": {
+  "type": "bottom",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "grey",
+  "desc": "Grey drawstring track pants with side pockets and cuffed ankles",
+  "neurons": 8.42
+ },
+ "p_furor_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black slides with a wide textured strap",
+  "neurons": 8.32
+ },
+ "p_baroque_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light pink",
+  "desc": "Pink embroidered lawn suit with matching dupatta",
+  "neurons": 8.54
+ },
+ "p_baroque_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dark green",
+  "desc": "Embroidered dark green velvet long dress with gold details",
+  "neurons": 8.78
+ },
+ "p_baroque_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dark green",
+  "desc": "Dark green chiffon dress with intricate gold embroidery",
+  "neurons": 8.72
+ },
+ "p_baroque_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "magenta",
+  "desc": "Magenta embroidered khaddar kurta with matching trousers and dupatta",
+  "neurons": 8.64
+ },
+ "p_baroque_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal green",
+  "desc": "Embroidered teal chiffon long shirt with matching dupatta and trousers",
+  "neurons": 8.85
+ },
+ "p_baroque_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "magenta and white",
+  "desc": "Embroidered magenta kurta with white patterned shalwar and dupatta",
+  "neurons": 8.85
+ },
+ "p_zarashahjahan_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream and maroon",
+  "desc": "Cream kurta and trousers with maroon embroidered dupatta",
+  "neurons": 8.71
+ },
+ "p_zarashahjahan_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty blue",
+  "desc": "Embroidered long tunic with wide trousers and matching dupatta",
+  "neurons": 8.8
+ },
+ "p_zarashahjahan_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "blue",
+  "desc": "Blue embroidered long tunic with matching wide leg trousers",
+  "neurons": 8.68
+ },
+ "p_zarashahjahan_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "olive green",
+  "desc": "Embroidered olive green tunic with matching wide leg trousers",
+  "neurons": 8.78
+ },
+ "p_zarashahjahan_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "rust orange",
+  "desc": "Long rust kurta with white embroidery and wide trousers",
+  "neurons": 8.7
+ },
+ "p_zarashahjahan_06": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "silver and green",
+  "desc": "Silver chandelier earrings with green stones and pearl droplets",
+  "neurons": 8.75
+ },
+ "p_saniamaskatiya_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pale yellow",
+  "desc": "printed long kurta with matching trousers and dark neckline",
+  "neurons": 8.57
+ },
+ "p_saniamaskatiya_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black and peach",
+  "desc": "Black embroidered short kurta with peach flared sharara pants",
+  "neurons": 8.76
+ },
+ "p_saniamaskatiya_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "white and gold",
+  "desc": "Anarkali style dress with gold patterns and a red dupatta",
+  "neurons": 8.82
+ },
+ "p_saniamaskatiya_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "silver grey",
+  "desc": "Embellished floor length gown with matching dupatta",
+  "neurons": 8.71
+ },
+ "p_saniamaskatiya_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "multicolor",
+  "desc": "Embellished long flared lehenga with a patterned skirt",
+  "neurons": 8.76
+ },
+ "p_saniamaskatiya_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Embroidered long kurta with matching dupatta and trousers",
+  "neurons": 8.71
+ },
+ "p_asimjofa_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mauve purple",
+  "desc": "Embroidered poly net three piece suit with flared trousers",
+  "neurons": 8.88
+ },
+ "p_asimjofa_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Embroidered net tunic with wide leg trousers and dupatta",
+  "neurons": 8.84
+ },
+ "p_asimjofa_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mustard yellow",
+  "desc": "Embroidered mustard silk long shirt with intricate silver patterns",
+  "neurons": 8.88
+ },
+ "p_asimjofa_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "Light blue floral printed long tunic with purple borders",
+  "neurons": 8.55
+ },
+ "p_asimjofa_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal and maroon",
+  "desc": "Teal embroidered long shirt with maroon wide leg trousers",
+  "neurons": 8.85
+ },
+ "p_asimjofa_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "teal blue",
+  "desc": "Teal embroidered cambric shirt with matching trousers",
+  "neurons": 8.79
+ },
+ "p_hsy_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black crop top and wide leg flared trousers set",
+  "neurons": 8.55
+ },
+ "p_hsy_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "purple",
+  "desc": "Purple textured co-ord set with lace waistcoat and voluminous bottoms",
+  "neurons": 8.77
+ },
+ "p_hsy_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red",
+  "desc": "red sleeveless floor length embroidered formal gown",
+  "neurons": 8.63
+ },
+ "p_hsy_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "olive green",
+  "desc": "printed patterned long jacket with matching crop top and skirt",
+  "neurons": 8.75
+ },
+ "p_hsy_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "dark grey",
+  "desc": "Embellished crop top with jacket and long flared skirt",
+  "neurons": 8.76
+ },
+ "p_hsy_06": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Classic black long kurta with matching shalwar",
+  "neurons": 8.72
+ },
+ "p_aghanoor_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "lavender",
+  "desc": "lavender embroidered chiffon three piece suit with dupatta",
+  "neurons": 8.78
+ },
+ "p_aghanoor_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "white",
+  "desc": "White linen tunic with intricate black floral embroidery",
+  "neurons": 8.59
+ },
+ "p_aghanoor_03": {
+  "type": "bottom",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black pure cotton lawn shalwar hanging on a hanger",
+  "neurons": 8.55
+ },
+ "p_aghanoor_04": {
+  "type": "bottom",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black pure cotton lawn pants hanging on a hanger",
+  "neurons": 8.51
+ },
+ "p_aghanoor_05": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "blue",
+  "desc": "Blue printed lawn dupatta with white floral patterns",
+  "neurons": 8.54
+ },
+ "p_aghanoor_06": {
+  "type": "top",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pale yellow",
+  "desc": "Embroidered sleeveless yellow lawn shirt with purple trim",
+  "neurons": 8.63
+ },
+ "p_afrozeh_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "wedding",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "olive green",
+  "desc": "Embroidered green long tunic with matching dupatta and trousers",
+  "neurons": 8.76
+ },
+ "p_afrozeh_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dark teal",
+  "desc": "Embroidered dark teal long dress with intricate silver patterns",
+  "neurons": 8.77
+ },
+ "p_afrozeh_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "royal blue",
+  "desc": "Embroidered navy blue long shirt with matching trousers and dupatta",
+  "neurons": 8.8
+ },
+ "p_afrozeh_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dark brown",
+  "desc": "Embroidered dark brown tunic with matching wide leg trousers",
+  "neurons": 8.77
+ },
+ "p_afrozeh_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mauve purple",
+  "desc": "long mauve dress with intricate white lace embroidery",
+  "neurons": 8.72
+ },
+ "p_afrozeh_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "green",
+  "desc": "Embroidered long green floral print formal suit",
+  "neurons": 8.68
+ },
+ "p_hussainrehar_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream and gold",
+  "desc": "Embroidered cream maxi dress with a heavy patterned dupatta",
+  "neurons": 8.8
+ },
+ "p_hussainrehar_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "Floral printed long Anarkali suit with matching dupatta",
+  "neurons": 8.75
+ },
+ "p_hussainrehar_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "mustard yellow",
+  "desc": "Mustard embroidered kurta and trousers with a sheer dupatta",
+  "neurons": 8.76
+ },
+ "p_hussainrehar_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty pink",
+  "desc": "Embellished long pink floor length gown with matching dupatta",
+  "neurons": 8.8
+ },
+ "p_hussainrehar_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "off white",
+  "desc": "Embroidered white long shirt with matching trousers and dupatta",
+  "neurons": 8.76
+ },
+ "p_hussainrehar_06": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "fusion",
+  "season": "winter",
+  "colour": "teal blue",
+  "desc": "Long teal coat with pink floral embroidery",
+  "neurons": 8.66
+ },
+ "p_republic_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal green",
+  "desc": "Teal printed two piece suit with matching dupatta",
+  "neurons": 8.72
+ },
+ "p_republic_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "summer",
+  "colour": "pink",
+  "desc": "Long pink kaftan with floral embroidery and scalloped edges",
+  "neurons": 8.61
+ },
+ "p_republic_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "navy blue",
+  "desc": "Embroidered navy blue tunic with wide sleeves and matching trousers",
+  "neurons": 8.8
+ },
+ "p_republic_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "purple",
+  "desc": "Embroidered long kurta with wide leg trousers and dupatta",
+  "neurons": 8.74
+ },
+ "p_republic_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal green",
+  "desc": "Embroidered teal long shirt with matching dupatta",
+  "neurons": 8.72
+ },
+ "p_republic_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "pastel mint",
+  "desc": "Floral printed long kameez with wide leg trousers",
+  "neurons": 8.72
+ },
+ "p_zainabchottani_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue embroidered long shirt with a light teal dupatta",
+  "neurons": 8.74
+ },
+ "p_zainabchottani_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "deep violet",
+  "desc": "Elegant violet jumpsuit with a shimmering embellished cape",
+  "neurons": 8.7
+ },
+ "p_zainabchottani_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal and pink",
+  "desc": "Embellished teal long dress with pink borders and orange dupatta",
+  "neurons": 8.82
+ },
+ "p_zainabchottani_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "beige gold",
+  "desc": "Embellished long kameez with matching gharara and dupatta",
+  "neurons": 8.79
+ },
+ "p_zainabchottani_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "navy blue",
+  "desc": "Navy blue co-ord set with white floral embroidery",
+  "neurons": 8.6
+ },
+ "p_zainabchottani_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "rust orange",
+  "desc": "printed rust orange kurta with matching dupatta and patterns",
+  "neurons": 8.74
+ },
+ "p_sairashakira_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black and gold",
+  "desc": "Black two piece outfit with heavy gold floral embroidery",
+  "neurons": 8.76
+ },
+ "p_sairashakira_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black saree with an intricately embroidered long embellished border",
+  "neurons": 8.69
+ },
+ "p_sairashakira_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "silver grey",
+  "desc": "heavily embellished silver grey bridal lehenga choli with dupatta",
+  "neurons": 8.83
+ },
+ "p_sairashakira_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "lavender lilac",
+  "desc": "lavender printed long kameez with matching dupatta and trousers",
+  "neurons": 8.78
+ },
+ "p_sairashakira_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "lilac pink",
+  "desc": "Embroidered lilac long shirt with matching trousers and dupatta",
+  "neurons": 8.65
+ },
+ "p_sairashakira_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "grey",
+  "desc": "Long grey embellished maxi dress with horizontal stripe patterns",
+  "neurons": 8.69
+ },
+ "p_alixeeshan_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream and gold",
+  "desc": "Embroidered lehenga choli with heavy borders and dupatta",
+  "neurons": 8.82
+ },
+ "p_alixeeshan_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream gold",
+  "desc": "Embellished cream lehenga choli with intricate gold spiral embroidery",
+  "neurons": 8.83
+ },
+ "p_alixeeshan_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black and gold",
+  "desc": "Embellished black lehenga choli with heavy gold embroidery",
+  "neurons": 8.83
+ },
+ "p_alixeeshan_06": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "black and gold",
+  "desc": "Embroidered black sherwani with matching trousers and turban",
+  "neurons": 8.79
+ },
+ "p_alixeeshan_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black saree with intricate gold embroidery and border",
+  "neurons": 8.65
+ },
+ "p_alixeeshan_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red and gold",
+  "desc": "Heavily embroidered red lehenga choli with a matching dupatta",
+  "neurons": 8.85
+ },
+ "p_zaha_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "off white",
+  "desc": "Embroidered cream three piece suit with dupatta",
+  "neurons": 8.71
+ },
+ "p_zaha_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty rose",
+  "desc": "Embroidered long tunic with matching trousers and dupatta",
+  "neurons": 8.76
+ },
+ "p_zaha_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "Embroidered light blue long shirt with matching trousers and dupatta",
+  "neurons": 8.8
+ },
+ "p_zaha_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Embroidered beige long tunic with matching trousers and dupatta",
+  "neurons": 8.73
+ },
+ "p_zaha_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mint green",
+  "desc": "Embroidered mint green three piece suit with floral details",
+  "neurons": 8.76
+ },
+ "p_zaha_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "white and pink",
+  "desc": "White co-ord set with pink floral print and flared sleeves",
+  "neurons": 8.68
+ },
+ "p_iznik_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "deep purple",
+  "desc": "Embroidered purple long shirt with matching trousers and dupatta",
+  "neurons": 8.65
+ },
+ "p_iznik_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "sage green",
+  "desc": "Long printed fine khaddar kurta with a matching dupatta",
+  "neurons": 8.63
+ },
+ "p_iznik_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "white and lilac",
+  "desc": "Embroidered long chiffon dress with floral lilac patterns",
+  "neurons": 8.8
+ },
+ "p_iznik_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Maroon silk dress with heavy gold floral embroidery",
+  "neurons": 8.72
+ },
+ "p_iznik_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "purple",
+  "desc": "Purple embroidered viscose jacquard long shirt with matching dupatta",
+  "neurons": 8.75
+ },
+ "p_jazmin_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal blue",
+  "desc": "Teal blue embroidered viscose co-ord set with paisley patterns",
+  "neurons": 8.69
+ },
+ "p_jazmin_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dark green",
+  "desc": "Embroidered dark green velvet formal suit with dupatta",
+  "neurons": 8.76
+ },
+ "p_iznik_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "emerald green",
+  "desc": "Embroidered rawsilk shirt with wide leg trousers and dupatta",
+  "neurons": 8.85
+ },
+ "p_jazmin_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dark brown",
+  "desc": "Embroidered dark brown chiffon saree with gold detailing",
+  "neurons": 8.77
+ },
+ "p_jazmin_06": {
+  "type": "bag",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dark green",
+  "desc": "Embroidered velvet potli bag with hanging bead embellishments",
+  "neurons": 8.82
+ },
+ "p_jazmin_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "mint green",
+  "desc": "Mint green floral printed lawn suit with pink dupatta",
+  "neurons": 8.58
+ },
+ "p_jazmin_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mint green",
+  "desc": "Floral printed raw silk three piece suit with dupatta",
+  "neurons": 8.73
+ },
+ "p_qalamkar_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "lavender grey",
+  "desc": "Embellished long lace tunic with matching wide leg trousers",
+  "neurons": 8.79
+ },
+ "p_qalamkar_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream gold",
+  "desc": "Embellished cream long formal dress with matching dupatta",
+  "neurons": 8.75
+ },
+ "p_qalamkar_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Embroidered navy blue long shirt with matching flared lehenga",
+  "neurons": 8.8
+ },
+ "p_qalamkar_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mint green",
+  "desc": "Embellished mint green long gown with matching dupatta",
+  "neurons": 8.74
+ },
+ "p_qalamkar_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "peach pink",
+  "desc": "Embellished long peach gown with intricate embroidery and dupatta",
+  "neurons": 8.76
+ },
+ "p_qalamkar_06": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dusty pink",
+  "desc": "light pink waistcoat with subtle textured patterns",
+  "neurons": 8.69
+ },
+ "p_maryumnmaria_01": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "white and blue",
+  "desc": "long white kurta with blue floral and geometric prints",
+  "neurons": 8.57
+ },
+ "p_maryumnmaria_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "champagne gold",
+  "desc": "long shimmering silk maxi dress with intricate silver embroidery",
+  "neurons": 8.74
+ },
+ "p_maryumnmaria_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "peach blue",
+  "desc": "Peach long kurta with blue patterned dupatta and trousers",
+  "neurons": 8.57
+ },
+ "p_maryumnmaria_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "royal blue",
+  "desc": "blue embroidered long tunic with matching trousers",
+  "neurons": 8.52
+ },
+ "p_maryumnmaria_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "beige",
+  "desc": "Beige co-ord set with silver embroidery on tunic and sleeves",
+  "neurons": 8.65
+ },
+ "p_maryumnmaria_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "navy blue floral print co-ord set with wide leg trousers",
+  "neurons": 8.65
+ },
+ "p_motifz_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black velvet embroidered long dress with a sheer dupatta",
+  "neurons": 8.74
+ },
+ "p_motifz_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Maroon embroidered khaddar tunic with matching trousers and dupatta",
+  "neurons": 8.86
+ },
+ "p_motifz_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "navy blue",
+  "desc": "Embroidered navy blue velvet unstitched three piece suit",
+  "neurons": 8.85
+ },
+ "p_motifz_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "mustard yellow",
+  "desc": "Embroidered mustard khaddar tunic with matching trousers and dupatta",
+  "neurons": 8.77
+ },
+ "p_motifz_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Embroidered velvet suit with matching dupatta and wide trousers",
+  "neurons": 8.82
+ },
+ "p_motifz_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "olive green",
+  "desc": "Embroidered khaddar three piece suit with matching dupatta and trousers",
+  "neurons": 8.91
+ },
+ "p_suffuse_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon gold",
+  "desc": "heavily embroidered maroon lehenga with gold dupatta",
+  "neurons": 8.77
+ },
+ "p_suffuse_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Embellished maroon velvet lehenga with gold embroidery and dupatta",
+  "neurons": 8.79
+ },
+ "p_suffuse_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "navy blue printed three piece suit with intricate patterns",
+  "neurons": 8.72
+ },
+ "p_suffuse_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red and mint",
+  "desc": "Red embroidered long dress with a mint green dupatta",
+  "neurons": 8.74
+ },
+ "p_suffuse_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "yellow",
+  "desc": "Yellow embroidered long kurta with matching dupatta and lace",
+  "neurons": 8.68
+ },
+ "p_suffuse_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red and gold",
+  "desc": "heavily embroidered red formal long dress with green dupatta",
+  "neurons": 8.81
+ },
+ "p_mnr_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "gold",
+  "desc": "Embellished long shirt with voluminous lehenga and matching dupatta",
+  "neurons": 8.81
+ },
+ "p_mnr_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "brown and gold",
+  "desc": "Embellished dark brown ensemble with heavy gold embroidery and dupatta",
+  "neurons": 8.89
+ },
+ "p_mnr_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon and gold",
+  "desc": "Embellished velvet and patterned zarbaft long flared peshwas",
+  "neurons": 8.94
+ },
+ "p_mishalakhani_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "taupe brown",
+  "desc": "Embroidered tunic with matching skinny shalwar in taupe brown",
+  "neurons": 8.75
+ },
+ "p_mnr_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Embellished maroon lehenga choli with heavy gold embroidery",
+  "neurons": 8.82
+ },
+ "p_mnr_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "green",
+  "desc": "Embellished green lehenga choli with a coral dupatta",
+  "neurons": 8.76
+ },
+ "p_mnr_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal and magenta",
+  "desc": "Embellished teal peplum top with matching lehenga and magenta dupatta",
+  "neurons": 8.93
+ },
+ "p_mishalakhani_02": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "lavender purple",
+  "desc": "long velvet kurta with silver floral embroidery",
+  "neurons": 8.52
+ },
+ "p_mishalakhani_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "light blue",
+  "desc": "Long light blue embroidered tunic with flared sleeves",
+  "neurons": 8.54
+ },
+ "p_mishalakhani_04": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "winter",
+  "colour": "navy blue",
+  "desc": "navy blue velvet wide leg culottes",
+  "neurons": 8.63
+ },
+ "p_mishalakhani_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black top and skinny shalwar with silver embroidery",
+  "neurons": 8.59
+ },
+ "p_mishalakhani_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "peach",
+  "desc": "Embroidered jacket with wide leg palazzo pants in peach.",
+  "neurons": 8.76
+ },
+ "p_nidaazwer_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal blue",
+  "desc": "Embroidered teal long shirt with matching flared trousers and dupatta",
+  "neurons": 8.79
+ },
+ "p_nidaazwer_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "silver grey",
+  "desc": "Embellished long silk jacket over a pink inner dress",
+  "neurons": 8.77
+ },
+ "p_nidaazwer_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Floral embroidered navy blue three piece suit with dupatta",
+  "neurons": 8.71
+ },
+ "p_nidaazwer_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "deep red",
+  "desc": "heavily embroidered red lehenga choli with matching dupatta",
+  "neurons": 8.8
+ },
+ "p_nidaazwer_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "sage green",
+  "desc": "Embroidered silk long shirt with matching trousers and dupatta",
+  "neurons": 8.8
+ },
+ "p_kanwalmalik_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal green",
+  "desc": "Embroidered teal long dress with matching dupatta",
+  "neurons": 8.71
+ },
+ "p_nidaazwer_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue embroidered long kurta with matching trousers and dupatta",
+  "neurons": 8.74
+ },
+ "p_kanwalmalik_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "champagne gold",
+  "desc": "heavily embellished long formal gown with matching dupatta",
+  "neurons": 8.77
+ },
+ "p_kanwalmalik_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal green",
+  "desc": "Teal printed kurta with matching trousers and dupatta",
+  "neurons": 8.71
+ },
+ "p_kanwalmalik_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "green and pink",
+  "desc": "Long patterned kaftan style dress with gold embroidery",
+  "neurons": 8.73
+ },
+ "p_kanwalmalik_06": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "wedding",
+   "party"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "olive green",
+  "desc": "Olive green kurta pajama set with matching long shawl",
+  "neurons": 8.71
+ },
+ "p_kanwalmalik_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "light blue",
+  "desc": "Embellished light blue sharara suit with matching dupatta",
+  "neurons": 8.76
+ },
+ "p_tenadurrani_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "cream and green",
+  "desc": "Embroidered long jacket with purple patterned shirt and green lehenga",
+  "neurons": 8.85
+ },
+ "p_tenadurrani_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red and gold",
+  "desc": "heavily embroidered red long shirt with voluminous flared lehenga",
+  "neurons": 8.82
+ },
+ "p_tenadurrani_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "red and gold",
+  "desc": "Embroidered red choli with gold lehenga and green dupatta",
+  "neurons": 8.85
+ },
+ "p_tenadurrani_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "gold and green",
+  "desc": "Gold embroidered long shirt with green lehenga and dupatta",
+  "neurons": 8.76
+ },
+ "p_tenadurrani_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "gold and beige",
+  "desc": "Embellished long shirt with wide flared trousers and dupatta",
+  "neurons": 8.8
+ },
+ "p_tenadurrani_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "purple gold",
+  "desc": "Embellished purple lehenga choli with gold floral embroidery",
+  "neurons": 8.79
+ },
+ "p_saadiaasad_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "grey",
+  "desc": "Grey long embroidered kurta with matching trousers and dupatta",
+  "neurons": 8.69
+ },
+ "p_saadiaasad_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "navy blue embroidered long tunic with matching dupatta",
+  "neurons": 8.69
+ },
+ "p_saadiaasad_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "aubergine",
+  "desc": "Velvet kurta and trousers with silver embroidery",
+  "neurons": 8.72
+ },
+ "p_saadiaasad_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "merlot",
+  "desc": "Velvet long kurta with matching trousers and subtle embroidery",
+  "neurons": 8.74
+ },
+ "p_saadiaasad_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black kaftan with intricate floral embroidery on sleeves and neckline",
+  "neurons": 8.6
+ },
+ "p_akbaraslam_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "lavender",
+  "desc": "lavender embroidered long kurta with matching straight trousers",
+  "neurons": 8.71
+ },
+ "p_saadiaasad_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "chestnut brown",
+  "desc": "Velvet co-ord set with intricate gold embroidery",
+  "neurons": 8.76
+ },
+ "p_akbaraslam_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "off white",
+  "desc": "Embellished lehenga choli with a matching dupatta",
+  "neurons": 8.75
+ },
+ "p_akbaraslam_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "navy blue",
+  "desc": "long floral print maxi dress with v-neckline",
+  "neurons": 8.6
+ },
+ "p_akbaraslam_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "magenta and white",
+  "desc": "magenta printed long kurta with white trousers and dupatta",
+  "neurons": 8.74
+ },
+ "p_akbaraslam_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "lime green",
+  "desc": "Embellished lime green lehenga choli with an orange dupatta",
+  "neurons": 8.82
+ },
+ "p_akbaraslam_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal blue",
+  "desc": "Embroidered teal long shirt with matching trousers and dupatta",
+  "neurons": 8.76
+ },
+ "p_rangrasiya_01": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "wine",
+  "desc": "Embroidered wine colored long kurta with matching dupatta",
+  "neurons": 8.71
+ },
+ "p_rangrasiya_02": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "Embroidered velvet long shirt with matching dupatta and trousers",
+  "neurons": 8.76
+ },
+ "p_rangrasiya_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "casual"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "taupe",
+  "desc": "Embroidered long tunic with matching trousers and printed dupatta",
+  "neurons": 8.75
+ },
+ "p_rangrasiya_03": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mint green",
+  "desc": "Embellished mint green long kameez with matching dupatta and gharara",
+  "neurons": 8.84
+ },
+ "p_rangrasiya_04": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "mauve",
+  "desc": "Embroidered mauve three piece suit with matching dupatta",
+  "neurons": 8.74
+ },
+ "p_rangrasiya_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "party",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black printed three piece suit with intricate paisley patterns",
+  "neurons": 8.68
+ },
+ "p_uniworth_03": {
+  "type": "top",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "white",
+  "desc": "White speckled sweatshirt with black text on chest",
+  "neurons": 8.38
+ },
+ "p_uniworth_02": {
+  "type": "top",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "navy",
+  "desc": "Navy smart fit shirt with small geometric print",
+  "neurons": 8.51
+ },
+ "p_uniworth_01": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "Plain beige modern bomber jacket with front zipper",
+  "neurons": 8.53
+ },
+ "p_cambridge_01": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "olive green",
+  "desc": "Olive green raglan sleeve sweatshirt with henley neckline",
+  "neurons": 8.45
+ },
+ "p_uniworth_04": {
+  "type": "top",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black long sleeve polo collar button-up cardigan",
+  "neurons": 8.55
+ },
+ "p_uniworth_05": {
+  "type": "top",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black textured hooded sweater with a full front zipper",
+  "neurons": 8.54
+ },
+ "p_uniworth_06": {
+  "type": "top",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "white",
+  "desc": "White long sleeve half zipper top with chest pocket",
+  "neurons": 8.54
+ },
+ "p_cambridge_02": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Minimalist black leather wallet with a flap closure.",
+  "neurons": 8.49
+ },
+ "p_cambridge_05": {
+  "type": "top",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "blue",
+  "desc": "Blue t-shirt with black graphic sun and palm tree",
+  "neurons": 8.45
+ },
+ "p_cambridge_04": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Single pair of beige quilted mercerized socks",
+  "neurons": 8.54
+ },
+ "p_cambridge_03": {
+  "type": "top",
+  "for": "men",
+  "view": "cropped",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "maroon",
+  "desc": "Maroon graphic t-shirt with white striped sleeve cuffs",
+  "neurons": 8.45
+ },
+ "p_royaltag_01": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black duffel bag with white striped accents",
+  "neurons": 8.51
+ },
+ "p_cambridge_06": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue leather bi-fold wallet with a sleek finish",
+  "neurons": 8.6
+ },
+ "p_royaltag_02": {
+  "type": "top",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "pink",
+  "desc": "Light pink long sleeve button down dress shirt",
+  "neurons": 8.47
+ },
+ "p_royaltag_03": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "navy blue tie with a small light blue pattern",
+  "neurons": 8.52
+ },
+ "p_royaltag_04": {
+  "type": "bottom",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "charcoal grey",
+  "desc": "Slim fit charcoal grey formal trousers with belt",
+  "neurons": 8.52
+ },
+ "p_royaltag_05": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "maroon blue",
+  "desc": "Maroon pocket square with blue geometric pattern",
+  "neurons": 8.52
+ },
+ "p_royaltag_06": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "work",
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "charcoal grey",
+  "desc": "Three piece charcoal grey tailored suit with waistcoat.",
+  "neurons": 8.72
+ },
+ "p_monark_01": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "Beige textured single breasted blazer with patch pockets",
+  "neurons": 8.56
+ },
+ "p_monark_03": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "work",
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "coffee brown",
+  "desc": "Two piece brown formal suit with tie and shirt",
+  "neurons": 8.72
+ },
+ "p_monark_02": {
+  "type": "other",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "olive green",
+  "desc": "Olive green knitted beanie with a ribbed brim.",
+  "neurons": 8.41
+ },
+ "p_monark_04": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black cotton socks with red logo and toe detail",
+  "neurons": 8.5
+ },
+ "p_monark_05": {
+  "type": "bottom",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black regular fit trousers with drawstring waist",
+  "neurons": 8.45
+ },
+ "p_lama_01": {
+  "type": "top",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "olive green",
+  "desc": "Olive green ribbed turtleneck sweater with wide bell sleeves",
+  "neurons": 8.55
+ },
+ "p_lama_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "tan brown",
+  "desc": "tan suede leather loafers with moccasin stitching",
+  "neurons": 8.57
+ },
+ "p_monark_06": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "grey",
+  "desc": "Grey knitted beanie with a ribbed brim",
+  "neurons": 8.33
+ },
+ "p_lama_03": {
+  "type": "top",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "off white",
+  "desc": "off white sweatshirt with black v-neck and cuffs",
+  "neurons": 8.44
+ },
+ "p_lama_04": {
+  "type": "other",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Pair of black ribbed ankle length socks",
+  "neurons": 8.46
+ },
+ "p_lama_05": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "brown",
+  "desc": "Long brown suede coat with large pockets and rolled sleeves",
+  "neurons": 8.57
+ },
+ "p_lama_06": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "dark brown",
+  "desc": "Minimalist dark brown leather slip-on sneakers",
+  "neurons": 8.55
+ },
+ "p_amiradnan_01": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Plain black band collar kameez with matching shalwar",
+  "neurons": 8.77
+ },
+ "p_amiradnan_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "blue",
+  "desc": "Blue leather Peshawari sandals with textured soles",
+  "neurons": 8.71
+ },
+ "p_amiradnan_04": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "festive",
+   "wedding",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "brown",
+  "desc": "Brown textured jute waistcoat with gold buttons.",
+  "neurons": 8.67
+ },
+ "p_amiradnan_05": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "white",
+  "desc": "Slim fit plain white kurta with matching pajama pants",
+  "neurons": 8.75
+ },
+ "p_ismailfarid_01": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dark gray",
+  "desc": "Dark gray textured long kameez with a buttoned collar.",
+  "neurons": 8.65
+ },
+ "p_ismailfarid_02": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "dark olive",
+  "desc": "Dark olive textured long kameez with buttoned placket",
+  "neurons": 8.81
+ },
+ "p_amiradnan_06": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "taupe brown",
+  "desc": "Folded taupe brown poly viscose fabric with buttons.",
+  "neurons": 8.62
+ },
+ "p_amiradnan_03": {
+  "type": "scarf",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "almond buff",
+  "desc": "Tan woolen shawl with subtle border and fringe details",
+  "neurons": 8.79
+ },
+ "p_ismailfarid_03": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon textured long kameez with a mandarin collar",
+  "neurons": 8.65
+ },
+ "p_ismailfarid_04": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "ivory",
+  "desc": "Ivory prince coat with vertical chain rope embroidery",
+  "neurons": 8.76
+ },
+ "p_ismailfarid_06": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "teal blue",
+  "desc": "Long teal blue kameez with a buttoned mandarin collar.",
+  "neurons": 8.67
+ },
+ "p_ismailfarid_05": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Long beige kameez with a buttoned placket and mandarin collar",
+  "neurons": 8.83
+ },
+ "p_humayunalamgir_01": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "winter",
+  "colour": "black gold",
+  "desc": "Black jacket with ornate gold damask embroidery",
+  "neurons": 8.74
+ },
+ "p_humayunalamgir_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "dark sandstone",
+  "desc": "Dark sandstone suede lace-up oxford shoes",
+  "neurons": 8.55
+ },
+ "p_humayunalamgir_03": {
+  "type": "outerwear",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "wedding",
+   "party",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "midnight blue",
+  "desc": "Midnight blue velvet coat with gold floral embroidery",
+  "neurons": 8.73
+ },
+ "p_humayunalamgir_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "dark brown",
+  "desc": "dark brown croc-embossed mules with gold hardware detail",
+  "neurons": 8.66
+ },
+ "p_humayunalamgir_06": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "espresso brown",
+  "desc": "dark brown croc-embossed leather Peshawari sandals",
+  "neurons": 8.84
+ },
+ "p_stylo_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "pink",
+  "desc": "Pink ballet flats with a decorative gold embellishment",
+  "neurons": 8.52
+ },
+ "p_humayunalamgir_05": {
+  "type": "outerwear",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "sea green",
+  "desc": "Sea green velvet zip-up shacket with small embroidery",
+  "neurons": 8.65
+ },
+ "p_stylo_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Beige lace-up casual sneakers with white soles",
+  "neurons": 8.44
+ },
+ "p_stylo_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black pointed toe ballet flats with buckle detail",
+  "neurons": 8.5
+ },
+ "p_stylo_06": {
+  "type": "scarf",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "mustard yellow",
+  "desc": "Mustard yellow shawl with patterned borders and small motifs.",
+  "neurons": 8.8
+ },
+ "p_stylo_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "champagne",
+  "desc": "Embellished champagne colored slip-on mules with gold embroidery",
+  "neurons": 8.81
+ },
+ "p_stylo_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "pink",
+  "desc": "Pink suede loafers with gold horsebit detail",
+  "neurons": 8.51
+ },
+ "p_bata_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "pink",
+  "desc": "pink rubber flip flop sandals",
+  "neurons": 8.26
+ },
+ "p_bata_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "white and grey",
+  "desc": "white casual sneakers with grey toe and red detail",
+  "neurons": 8.43
+ },
+ "p_bata_05": {
+  "type": "shoes",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "grey and blue",
+  "desc": "grey slide sandals with blue sole and surf graphic",
+  "neurons": 8.52
+ },
+ "p_bata_03": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "black slip-on loafers with a metallic buckle detail",
+  "neurons": 8.56
+ },
+ "p_bata_06": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black leather belt with a silver metal buckle",
+  "neurons": 8.48
+ },
+ "p_servis_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black patent leather slingback heels with rhinestone strap detail",
+  "neurons": 8.53
+ },
+ "p_servis_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "grey blue",
+  "desc": "Grey block heel pumps with a bow and patent toe",
+  "neurons": 8.55
+ },
+ "p_servis_01": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black and grey",
+  "desc": "black and grey knit slip-on sneakers with neon accents",
+  "neurons": 8.47
+ },
+ "p_servis_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "off white",
+  "desc": "Cream block heel moccasins with a decorative silver buckle",
+  "neurons": 8.59
+ },
+ "p_servis_06": {
+  "type": "shoes",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "pink",
+  "desc": "Pink glittery infant shoes with a cute butterfly patch",
+  "neurons": 8.41
+ },
+ "p_borjan_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "silver",
+  "desc": "Silver pointed toe court shoes with a crystal embellishment.",
+  "neurons": 8.69
+ },
+ "p_servis_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "navy blue",
+  "desc": "navy blue mesh slip-on canvas shoes with white soles",
+  "neurons": 8.45
+ },
+ "p_borjan_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "bronze",
+  "desc": "bronze ballerina flats with an intricate cutout lattice pattern",
+  "neurons": 8.75
+ },
+ "p_borjan_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "olive",
+  "desc": "Olive green traditional Peshawari sandals with a closed toe.",
+  "neurons": 8.62
+ },
+ "p_borjan_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black pointed toe mules with a decorative ring detail",
+  "neurons": 8.65
+ },
+ "p_borjan_06": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "pink",
+  "desc": "Solid bright pink scarf with subtle textured finish",
+  "neurons": 8.55
+ },
+ "p_borjan_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "golden",
+  "desc": "Golden sling back heels embellished with sparkling rhinestones",
+  "neurons": 8.69
+ },
+ "p_insignia_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Beige pointed toe mules with bow detail",
+  "neurons": 8.5
+ },
+ "p_insignia_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "dark brown",
+  "desc": "Slouchy dark brown leather formal ankle boots",
+  "neurons": 8.54
+ },
+ "p_insignia_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "silver",
+  "desc": "Silver slip on high heel sandals with sequin embellishments",
+  "neurons": 8.75
+ },
+ "p_insignia_04": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "ivory",
+  "desc": "Ivory slip-on moccasins with tassel detail and laces.",
+  "neurons": 8.66
+ },
+ "p_insignia_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "off white",
+  "desc": "Off white pointed toe slingback heels with gold hardware",
+  "neurons": 8.72
+ },
+ "p_insignia_06": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "silver",
+  "desc": "Metallic silver baguette style shoulder bag with slim strap",
+  "neurons": 8.52
+ },
+ "p_hushpuppies_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "white",
+  "desc": "white slide sandals with a gold buckle detail",
+  "neurons": 8.38
+ },
+ "p_hushpuppies_03": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "grey",
+  "desc": "grey double strap slide sandals with cork footbed",
+  "neurons": 8.36
+ },
+ "p_hushpuppies_04": {
+  "type": "shoes",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "black leather sneakers with velcro strap and laces",
+  "neurons": 8.34
+ },
+ "p_hushpuppies_05": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "tan brown",
+  "desc": "tan slip-on moccasin loafers with white soles",
+  "neurons": 8.59
+ },
+ "p_hushpuppies_06": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "navy blue leather bifold wallet with black textured trim",
+  "neurons": 8.6
+ },
+ "p_ecs_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "white and blue",
+  "desc": "White and light blue sneakers with double buckle straps",
+  "neurons": 8.45
+ },
+ "p_ecs_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "maroon slingback pointed toe heels with a gold bow",
+  "neurons": 8.74
+ },
+ "p_ecs_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "brown",
+  "desc": "Brown patterned velvet pumps with a decorative crystal buckle",
+  "neurons": 8.69
+ },
+ "p_ndure_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "Beige suede Chelsea ankle boots with black soles",
+  "neurons": 8.55
+ },
+ "p_ecs_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black khussa with gold leaf embroidery",
+  "neurons": 8.63
+ },
+ "p_ecs_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "gold",
+  "desc": "Gold block heel sandals with bow strap and crystal embellishment",
+  "neurons": 8.75
+ },
+ "p_ecs_06": {
+  "type": "outfit",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "desi",
+  "season": "winter",
+  "colour": "dusty rose",
+  "desc": "Pink embroidered khaddar shirt with matching trousers",
+  "neurons": 8.64
+ },
+ "p_ndure_04": {
+  "type": "shoes",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black slip-on knit sneakers with a thick sole",
+  "neurons": 8.42
+ },
+ "p_ndure_03": {
+  "type": "shoes",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "tan brown",
+  "desc": "Tan suede loafers with chunky black lug soles",
+  "neurons": 8.55
+ },
+ "p_ndure_06": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "navy blue two-tone panelled sneakers with white soles",
+  "neurons": 8.68
+ },
+ "p_ndure_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "beige",
+  "desc": "Beige lace-up mesh sneakers with a thick sole",
+  "neurons": 8.47
+ },
+ "p_unze_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "tan",
+  "desc": "Tan slingback flat sandals with sparkly braided strap detail",
+  "neurons": 8.6
+ },
+ "p_unze_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "black perforated moccasins with a silver chain detail",
+  "neurons": 8.61
+ },
+ "p_unze_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black patent block heel sandals with a decorative bow",
+  "neurons": 8.7
+ },
+ "p_unze_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "rose gold",
+  "desc": "rose gold mid high heel sandals with embellished open toe",
+  "neurons": 8.8
+ },
+ "p_unze_06": {
+  "type": "outfit",
+  "for": "men",
+  "view": "standing",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "dark grey",
+  "desc": "dark grey zip-up hoodie with blue denim jeans",
+  "neurons": 8.48
+ },
+ "p_unze_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "work",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black synthetic slip on court shoes with gold toe cap",
+  "neurons": 8.74
+ },
+ "p_clive_01": {
+  "type": "shoes",
+  "for": "men",
+  "view": "cropped",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "brown",
+  "desc": "Brown leather casual sandals with strap detail",
+  "neurons": 8.46
+ },
+ "p_clive_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "casual",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "summer",
+  "colour": "green",
+  "desc": "Green flat sandals with beaded braided straps",
+  "neurons": 8.5
+ },
+ "p_clive_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "cropped",
+  "occasions": [
+   "work",
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black patent leather loafers with gold hardware detail",
+  "neurons": 8.62
+ },
+ "p_clive_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "black",
+  "desc": "Black PU slippers with white patterned straps",
+  "neurons": 8.34
+ },
+ "p_clive_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black satin slip-on heels with silver rhinestone braided straps",
+  "neurons": 8.75
+ },
+ "p_clive_06": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "golden",
+  "desc": "glittering gold clutch with a circular ring handle",
+  "neurons": 8.69
+ },
+ "p_urbansole_01": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "grey",
+  "desc": "Grey textured sliders with a wide single strap.",
+  "neurons": 8.35
+ },
+ "p_urbansole_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "beige pointed toe block heel mules with gold buckle",
+  "neurons": 8.53
+ },
+ "p_urbansole_03": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black and white",
+  "desc": "Black slip-on sports shoes with a thick white sole",
+  "neurons": 8.5
+ },
+ "p_urbansole_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "pink",
+  "desc": "Pink platform slide slippers with thick textured straps",
+  "neurons": 8.36
+ },
+ "p_urbansole_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "dark brown",
+  "desc": "Brown woven leather moccasins with a gold metal detail",
+  "neurons": 8.62
+ },
+ "p_urbansole_06": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "brown",
+  "desc": "Large brown textured tote bag with slim handles",
+  "neurons": 8.49
+ },
+ "p_walkeaze_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "white",
+  "desc": "White pointed toe slingback heels with silver sparkly straps",
+  "neurons": 8.68
+ },
+ "p_walkeaze_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "nude pink",
+  "desc": "nude slip-on heels with embellished knot strap",
+  "neurons": 8.75
+ },
+ "p_walkeaze_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "summer",
+  "colour": "beige",
+  "desc": "Beige flat slippers with gold embellished jewel embellishments",
+  "neurons": 8.71
+ },
+ "p_walkeaze_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party",
+   "wedding"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black pointed toe mules with a gold chain detail",
+  "neurons": 8.65
+ },
+ "p_walkeaze_06": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "silver",
+  "desc": "silver sparkling clutch bag with a metal frame",
+  "neurons": 8.64
+ },
+ "p_walkeaze_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "white",
+  "desc": "white platform wedge sandals with ankle straps",
+  "neurons": 8.45
+ },
+ "p_almas_02": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "coffee brown",
+  "desc": "Hand-stitched leather tassel loafers in a deep coffee shade",
+  "neurons": 8.85
+ },
+ "p_almas_03": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "camel",
+  "desc": "Camel perforated loafers with a silver metal bit detail",
+  "neurons": 8.56
+ },
+ "p_almas_01": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "white",
+  "desc": "All white chunky platform sneakers with lace-up closure",
+  "neurons": 8.47
+ },
+ "p_almas_04": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Minimalistic beige suede loafers with a sleek design",
+  "neurons": 8.61
+ },
+ "p_almas_05": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black leather loafers with gold studs and horsebit detail",
+  "neurons": 8.72
+ },
+ "p_sputnik_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black square toe pumps with a decorative buckle detail",
+  "neurons": 8.5
+ },
+ "p_almas_06": {
+  "type": "scarf",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "winter",
+  "colour": "pink",
+  "desc": "Pink wool scarf with grey floral patterns and fringe.",
+  "neurons": 8.73
+ },
+ "p_sputnik_03": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "beige",
+  "desc": "beige flat slide slipper with a single wide strap",
+  "neurons": 8.53
+ },
+ "p_sputnik_01": {
+  "type": "shoes",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "grey black",
+  "desc": "Grey and black slip-on casual knit sneakers.",
+  "neurons": 8.55
+ },
+ "p_sputnik_06": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "fawn",
+  "desc": "Cream khussa with gold embroidery and beadwork",
+  "neurons": 8.71
+ },
+ "p_sputnik_04": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "fawn",
+  "desc": "Tan slide sandals with white geometric patterned strap",
+  "neurons": 8.37
+ },
+ "p_sputnik_05": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "brown",
+  "desc": "Brown strappy sandals with gold stud embellishments",
+  "neurons": 8.51
+ },
+ "p_jafferjees_01": {
+  "type": "other",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "yellow",
+  "desc": "Yellow wallet and card holder set in a gift box",
+  "neurons": 8.39
+ },
+ "p_jafferjees_03": {
+  "type": "other",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black and brown",
+  "desc": "Black leather rectangular keyring with a brown textured strip",
+  "neurons": 8.45
+ },
+ "p_jafferjees_02": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "red",
+  "desc": "minimalist red leather wallet with a small gold logo",
+  "neurons": 8.53
+ },
+ "p_jafferjees_04": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black and red",
+  "desc": "Black leather card case with a red horizontal stripe.",
+  "neurons": 8.56
+ },
+ "p_jafferjees_05": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black and red",
+  "desc": "Black leather wallet and keychain with red stripe detail",
+  "neurons": 8.55
+ },
+ "p_hub_01": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "dark brown",
+  "desc": "dark brown crocodile embossed leather wallet",
+  "neurons": 8.46
+ },
+ "p_jafferjees_06": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black and red",
+  "desc": "Black card holder and keychain with red stripe detail",
+  "neurons": 8.55
+ },
+ "p_hub_02": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "blue",
+  "desc": "Navy blue crossbody sling bag with brown strap",
+  "neurons": 8.48
+ },
+ "p_hub_03": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "work",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black crocodile embossed handbag with gold hardware accents",
+  "neurons": 8.48
+ },
+ "p_hub_04": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "blue",
+  "desc": "navy blue leather bi-fold wallet",
+  "neurons": 8.45
+ },
+ "p_hub_05": {
+  "type": "other",
+  "for": "men",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "dark brown",
+  "desc": "minimalist dark brown leather bi-fold wallet",
+  "neurons": 8.55
+ },
+ "p_astore_01": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "minimalist beige hobo style handbag with a single strap",
+  "neurons": 8.55
+ },
+ "p_hub_06": {
+  "type": "other",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "saddlebrown",
+  "desc": "Small textured brown leather zip around wallet with gold logo",
+  "neurons": 8.6
+ },
+ "p_astore_02": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "peach",
+  "desc": "Peach woven texture rectangular crossbody bag with gold hardware",
+  "neurons": 8.5
+ },
+ "p_astore_03": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige",
+  "desc": "Beige canvas pouch with a long black strap",
+  "neurons": 8.55
+ },
+ "p_astore_04": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "beige and brown",
+  "desc": "Two-tone cylindrical handbag with top handles and shoulder strap",
+  "neurons": 8.63
+ },
+ "p_astore_05": {
+  "type": "bag",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "chocolate brown",
+  "desc": "minimalist dark brown leather hobo style handbag",
+  "neurons": 8.54
+ },
+ "p_astore_06": {
+  "type": "top",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "maroon",
+  "desc": "long sleeve maroon turtleneck knit sweater",
+  "neurons": 8.45
+ },
+ "p_esfir_02": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "green and gold",
+  "desc": "gold crescent moon ear cuffs with green enamel and pearls",
+  "neurons": 8.79
+ },
+ "p_esfir_01": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "gold and green",
+  "desc": "Gold bracelet with green clover and moon star charms",
+  "neurons": 8.75
+ },
+ "p_esfir_03": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "gold",
+  "desc": "gold starfish shaped stud earrings",
+  "neurons": 8.42
+ },
+ "p_esfir_05": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "gold and pink",
+  "desc": "gold drop earrings with pearls and pink teardrop stones",
+  "neurons": 8.75
+ },
+ "p_esfir_06": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "festive"
+  ],
+  "style": "fusion",
+  "season": "all",
+  "colour": "gold and white",
+  "desc": "Gold bird shaped earrings with pearls and teardrop pearls",
+  "neurons": 8.8
+ },
+ "p_minnieminors_01": {
+  "type": "bottom",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "summer",
+  "colour": "pink",
+  "desc": "Pink capri tights with ruffled hemline",
+  "neurons": 8.35
+ },
+ "p_minnieminors_03": {
+  "type": "top",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "beige",
+  "desc": "Beige sweatshirt with black PlayStation logo and sleeve print",
+  "neurons": 8.39
+ },
+ "p_minnieminors_02": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "wedding",
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "black",
+  "desc": "Black patent leather pumps with a sparkling butterfly embellishment",
+  "neurons": 8.65
+ },
+ "p_minnieminors_05": {
+  "type": "outfit",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "magenta",
+  "desc": "Magenta kameez and trousers with gold hand embroidery",
+  "neurons": 8.61
+ },
+ "p_minnieminors_04": {
+  "type": "shoes",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "grey red blue",
+  "desc": "Chunky multi-colored sneakers with thick white soles",
+  "neurons": 8.45
+ },
+ "p_minnieminors_06": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "party",
+   "festive",
+   "wedding"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "navy blue",
+  "desc": "Navy blue kameez and trousers with floral embroidery",
+  "neurons": 8.75
+ },
+ "p_cocobee_01": {
+  "type": "bottom",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "navy",
+  "desc": "Navy wide-leg trousers with white pinstripes and side stripes",
+  "neurons": 8.7
+ },
+ "p_cocobee_02": {
+  "type": "top",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "mustard yellow",
+  "desc": "Mustard top with white embroidery and a tie-neck bow.",
+  "neurons": 8.69
+ },
+ "p_cocobee_03": {
+  "type": "outerwear",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "black",
+  "desc": "Black zip-up hoodie with Batman graphic prints",
+  "neurons": 8.43
+ },
+ "p_cocobee_05": {
+  "type": "outfit",
+  "for": "kids",
+  "view": "flat",
+  "occasions": [
+   "casual"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "purple",
+  "desc": "knitted two piece set with buttons and drawstring pants",
+  "neurons": 8.43
+ },
+ "p_cocobee_04": {
+  "type": "outerwear",
+  "for": "kids",
+  "view": "standing",
+  "occasions": [
+   "work",
+   "party"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "brown",
+  "desc": "Brown pinstripe formal blazer with a pocket square detail",
+  "neurons": 8.61
+ },
+ "p_trouser": {
+  "type": "bottom",
+  "for": "women",
+  "view": "standing",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "white",
+  "desc": "High-waisted wide-leg trousers in white fabric.",
+  "neurons": 8.57
+ },
+ "p_cocobee_06": {
+  "type": "top",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "winter",
+  "colour": "cream and rust",
+  "desc": "Cream, pink, and rust color block knit sweater",
+  "neurons": 8.6
+ },
+ "p_heels": {
+  "type": "shoes",
+  "for": "women",
+  "view": "flat",
+  "occasions": [
+   "casual",
+   "work",
+   "party"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "nude beige",
+  "desc": "pointed toe stiletto pumps in a nude beige shade",
+  "neurons": 8.72
+ },
+ "p_earrings": {
+  "type": "jewellery",
+  "for": "women",
+  "view": "cropped",
+  "occasions": [
+   "wedding",
+   "festive",
+   "party"
+  ],
+  "style": "desi",
+  "season": "all",
+  "colour": "gold",
+  "desc": "Gold jhumka earrings with intricate detailing and pearl droplets",
+  "neurons": 8.74
+ },
+ "p_top": {
+  "type": "top",
+  "for": "women",
+  "view": "seated",
+  "occasions": [
+   "casual",
+   "work"
+  ],
+  "style": "western",
+  "season": "all",
+  "colour": "maroon",
+  "desc": "Maroon long sleeve button down shirt with front tie detail",
+  "neurons": 8.59
+ }
+}
